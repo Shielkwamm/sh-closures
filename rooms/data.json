@@ -4,18 +4,18 @@
     "colorScheme": "n00b",
     "messageDelay": 5,
     "slug": "operat0r",
-    "description": "Get yer calls answered!",
+    "description": "_sh_",
     "isActive": false,
     "currentExpPoints": 0,
     "totalExpPoints": 50,
     "level": 0,
     "maxLevel": 5,
-    "zork": "{/+||☰?*}",
-    "bwam": "{ ◯",
-    "vibe": "↑⬤↑",
-    "_sh_": "/+△",
-    "currentMusicUrl": "https://www.youtube.com/embed/xnNCidccbG8",
-    "currentMusicTitle": "Taraf De Haidouks - Turceasca",
+    "zork": "+/-☰+.. {{☰}}.. --☰}",
+    "bwam": "◯ --> ^[]",
+    "vibe": "⬤",
+    "_sh_": "?+△??",
+    "currentMusicUrl": "https://www.youtube.com/watch?v=w2UnlHYgLVE&list=RDw2UnlHYgLVE&start_radio=1",
+    "currentMusicTitle": "The weight of my words - Royksopp Four Tet Remix",
     "handles": [
       {
         "name": "Arbitrat0r"
@@ -59,12 +59,12 @@
     "totalExpPoints": 50,
     "level": 0,
     "maxLevel": 5,
-    "zork": "+☰",
-    "bwam": "+◯/+",
-    "vibe": "↑↑⬤↑↑",
-    "_sh_": "[+]△[+]",
-    "currentMusicUrl": "https://www.youtube.com/embed/xDRWdNn_nLk",
-    "currentMusicTitle": "Appalachian Spring - Aaron Copland",
+    "zork": "☰",
+    "bwam": "☰ ☰",
+    "vibe": "☰ ☰ ☰",
+    "_sh_": "☰ ☰ ☰ ☰",
+    "currentMusicUrl": "https://www.youtube.com/watch?v=2f2zi8sMCB0",
+    "currentMusicTitle": "Excision - 8 bit hero",
     "handles": [
       {
         "name": "admin"
@@ -105,8 +105,8 @@
     "bwam": "🚜",
     "vibe": "🌽",
     "_sh_": "🍅",
-    "currentMusicUrl": "https://www.youtube.com/embed/vNVguvNE7qc",
-    "currentMusicTitle": "Trace Adkins - Honky Tonk Badonkadonk (Official Music Video)",
+    "currentMusicUrl": "https://www.youtube.com/watch?v=M21ALoLPbH4&list=RDM21ALoLPbH4&start_radio=1",
+    "currentMusicTitle": "Under the wheels - Calexico",
     "handles": [
       {
         "name": "Arbitrat0r"
@@ -150,8 +150,8 @@
     "bwam": "?+◯☯?+",
     "vibe": "↑⬤↑",
     "_sh_": "+△",
-    "currentMusicUrl": "https://www.youtube.com/watch?v=pE58uZ44swA",
-    "currentMusicTitle": "Boulevard of Broken Dreams",
+    "currentMusicUrl": "https://www.youtube.com/watch?v=ttcwcaALXZw",
+    "currentMusicTitle": "Breakbeat Era - Ultra Obscene",
     "handles": [
       {
         "name": "admin",
@@ -189,8 +189,8 @@
     "bwam": "👌",
     "vibe": "+🦓",
     "_sh_": "~[🦓🧂]",
-    "currentMusicUrl": "https://www.youtube.com/embed/YaN8u2T01Xw",
-    "currentMusicTitle": "Junior 85 - Raymond Scott",
+    "currentMusicUrl": "https://www.youtube.com/watch?v=UOC4VWQpnDM",
+    "currentMusicTitle": "Gusto - Disco's revenge",
     "handles": [
       {
         "name": "admin"
@@ -209,7 +209,7 @@
   {
     "name": "eyeballsGallore",
     "colorScheme": "chos",
-    "isFeatured": false,
+    "isFeatured": true,
     "messageDelay": 5,
     "slug": "sg",
     "description": "There will be lots 'n lots of eyeballs. :(",
@@ -221,9 +221,9 @@
     "zork": "☺☺☺",
     "bwam": "{ ( 🌞  )",
     "vibe": "?xo[-]⬤?xo[+]",
-    "_sh_": "🥒?",
-    "currentMusicUrl": "https://www.youtube.com/embed/KTc3PsW5ghQ",
-    "currentMusicTitle": "Sesame Street: The Martians Discover a Telephone",
+    "_sh_": "🎁",
+    "currentMusicUrl": "https://www.youtube.com/watch?v=T_G6zrRbyA8",
+    "currentMusicTitle": "Cinematic Orchestra - All that you give",
     "handles": [
       {
         "name": "admin",
@@ -242,7 +242,7 @@
   {
     "name": "Homogeneous Cell Universe",
     "colorScheme": "chos",
-    "isFeatured": true,
+    "isFeatured": false,
     "messageDelay": 5,
     "slug": "homogeneous-cell-universe",
     "description": "[][u][][][][][u][][][][][][][u][x]",
@@ -255,8 +255,8 @@
     "bwam": "🌌",
     "vibe": "🌌",
     "_sh_": "🌌",
-    "currentMusicUrl": "https://www.youtube.com/embed/LY0kLycju-I",
-    "currentMusicTitle": "Brown Noise – 9 Hour Sleep Sound – Soft Noise / Brownian Noise / Red Noise",
+    "currentMusicUrl": "https://www.youtube.com/watch?v=oQq3Jwz0bDQ",
+    "currentMusicTitle": "YĪN YĪN - The Rabbit That Hunts Tigers",
     "handles": [
       {
         "name": "admin",
