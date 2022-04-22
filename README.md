@@ -1,6 +1,6 @@
-# The Zones of === Shìélkwämm ===
+# The [ of === Shìélkwämm === ]z
 
-Here is the Zones === Shïelkwāmm ===!! 
+Here are the closures of === Shïelkwāmm ===!! 
 > hïnt: It is mānāged with JSON files!!!
 
 ## Data
